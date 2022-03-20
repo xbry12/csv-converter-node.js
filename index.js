@@ -8,7 +8,7 @@
 
 let csvToJson = require("convert-csv-to-json");
 
-let fileInputName = "/csv-converter-node.js/csv-file/MOCK_DATA.csv";
+let fileInputName = "./csv-file/MOCK_DATA.csv";
 
 let fileOutputName = "myOutputFile.json";
 
