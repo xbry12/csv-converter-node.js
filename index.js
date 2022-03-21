@@ -19,3 +19,10 @@ let json = csvToJson.getJsonFromCsv("./csv-file/MOCK_DATA.csv");
 for (let i = 0; i < json.length; i++) {
   console.log(json[i]);
 }
+
+// express
+// react app calls route
+// json in react app
+
+//front end text area box
+//
